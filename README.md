@@ -3,6 +3,7 @@
 The aim of this project is to develop a real-time network traffic monitoring system that enhances network security by detecting anomalous packet behavior through machine learning-based anomaly detection. The system captures network packets live and performs detailed protocol analysis to identify any irregularities in the data flow. By utilizing machine learning algorithms such as Isolation Forest and Local Outlier Factor (LOF), the system automatically detects anomalous traffic patterns that may indicate potential cyber threats.
 
 Problem Description:
+
 Modern networks are increasingly exposed to a variety of security threats, including malicious traffic such as brute-force attacks and data exfiltration. These risks pose significant challenges to maintaining the integrity and reliability of network systems.
 The key challenges addressed by this system include:
 1.	Real-time processing – Ensuring the analysis of network traffic with minimal latency, allowing for immediate detection of anomalous behavior.
